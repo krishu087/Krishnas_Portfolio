@@ -1,6 +1,10 @@
 # 3D Portfolio
 
+<<<<<<< HEAD
 ![Portfolio Screenshot](/public/assets/readme_assets/full.png)
+=======
+![Portfolio Screenshot](/public/assets/)
+>>>>>>> c8ed856b70a97323789db6d26e452e202713e4a0
 
 3D Portfolio is my personal portfolio website created using Next.js, Tailwind CSS, Three.js, React Three Fiber, and a collection of other technologies. This website showcases my skills, experiences, projects, and allows users to contact me. It also offers a dark and light theme to enhance the user experience.
 
@@ -16,7 +20,11 @@
 
 ## Demo
 
+<<<<<<< HEAD
 You can see a live demo of the portfolio website at [https://krishnas_portfolio](https://krishna-portfolio).
+=======
+You can see a live demo of the portfolio website at [https://shivam-sharma-myportfolio.vercel.app/](https://)
+>>>>>>> c8ed856b70a97323789db6d26e452e202713e4a0
 
 ## Features
 
@@ -82,4 +90,8 @@ The project structure is organized as follows:
 
 ## Author
 
+<<<<<<< HEAD
 -   [@Krishna Panjre](https://github.com/krishu087/)
+=======
+-   [@Shivam-Sharma-1](https://github.com/krishu087)
+>>>>>>> c8ed856b70a97323789db6d26e452e202713e4a0
