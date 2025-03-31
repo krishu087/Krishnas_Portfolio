@@ -1,12 +1,12 @@
 {
-  "name": "3d-portfolio",
+  "name": "Krishnas_Portfolio",
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "Shivam Sharma",
-    "email": "shivamsharma77607@gmail.com",
-    "github": "@Shivam-Sharma-1",
-    "linkedin": "https://www.linkedin.com/in/shivamsharma77607"
+    "name": "Krishna panjre",
+    "email": "krishnapanjre2003@gmail.com",
+    "github": "@krishnapanjre",
+    "linkedin": "https://www.linkedin.com/in/krishna-panjre-3b0a1b1b2/"
   },
   "scripts": {
     "dev": "next dev",
