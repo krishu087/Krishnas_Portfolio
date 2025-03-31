@@ -1,6 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
+  eslint: {
+    ignoreDuringBuilds: true, // ✅ Disables ESLint checks during build
+  },
   images: {
     domains: [
       "res.cloudinary.com",

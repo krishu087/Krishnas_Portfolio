@@ -1,4 +1,4 @@
-{/* eslint-disable react/no-unescaped-entities */}
+
 
 import Link from "next/link";
 import { motion } from "framer-motion";
@@ -30,6 +30,7 @@ function About() {
         className="mt-4 dark:text-ctnSecondaryDark text-gray-300 text-[17px] w-full leading-[30px] flex flex-col justify-between gap-6"
       >
         <div>
+          {/* eslint-disable react/no-unescaped-entities */}
          <p>
          Hello! I am Krishna Panjre, a passionate Full Stack Developer with
           expertise in the MERN stack and Python Development. I specialize in
@@ -45,6 +46,7 @@ function About() {
           explore new technologies, solve complex problems, and contribute to
           innovative projects. Lets build something amazing together!
          </p>
+         {/* eslint-enable react/no-unescaped-entities */}
           <br className="sm:block hidden" />
           Let&apos;s collaborate to bring your ideas to life!
         </div>
