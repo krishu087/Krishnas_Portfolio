@@ -28,20 +28,19 @@ function About() {
         className="mt-4 dark:text-ctnSecondaryDark text-gray-300 text-[17px] w-full leading-[30px] flex flex-col justify-between gap-6"
       >
         <div>
-        Hello! I'm Krishna Panjre, a passionate Full Stack Developer with expertise in the MERN stack and Python Development. I specialize in building scalable and high-performance web applications using modern technologies.
-
-My skill set includes:
-Full Stack Development (MERN Stack: MongoDB, Express.js, React, Node.js)
-Python Development
-SQL & Data Analysis (Efficient database management and insights extraction)
-Frontend Technologies (JavaScript, TypeScript, TailwindCSS, Next.js)
-
-I hold a degree in Computer Science and Application, equipping me with a strong foundation in software development. Alongside coding, I have a keen interest in Motion Graphics and Data Analysis, allowing me to blend creativity with data-driven insights.
-
-I'm always eager to explore new technologies, solve complex problems, and contribute to innovative projects. Let’s build something amazing together!
-
-
-
+          Hello! I am Krishna Panjre, a passionate Full Stack Developer with
+          expertise in the MERN stack and Python Development. I specialize in
+          building scalable and high-performance web applications using modern
+          technologies. My skill set includes: Full Stack Development (MERN
+          Stack: MongoDB, Express.js, React, Node.js) Python Development SQL &
+          Data Analysis (Efficient database management and insights extraction)
+          Frontend Technologies (JavaScript, TypeScript, TailwindCSS, Next.js) I
+          hold a degree in Computer Science and Application, equipping me with a
+          strong foundation in software development. Alongside coding, I have a
+          keen interest in Motion Graphics and Data Analysis, allowing me to
+          blend creativity with data-driven insights. I am always eager to
+          explore new technologies, solve complex problems, and contribute to
+          innovative projects. Let’s build something amazing together!
           <br className="sm:block hidden" />
           Let&apos;s collaborate to bring your ideas to life!
         </div>
