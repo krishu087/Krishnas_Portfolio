@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   eslint: {
-    ignoreDuringBuilds: true, // ✅ Disables ESLint checks during build
+    ignoreDuringBuilds: false, // ✅ Disables ESLint checks during build
   },
   images: {
     domains: [
