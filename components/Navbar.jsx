@@ -63,8 +63,8 @@ function Navbar() {
 								alt="avatar"
 								fill={true}
 								sizes=""
-								className="w-9 h-9 object-cover
-                        rounded-full"
+								className="w-10 h-10 rounded-full object-cover"
+                        
 								onClick={() => setAvatarToggle(!avatarToggle)}
 							/>
 						</div>
