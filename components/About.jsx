@@ -1,3 +1,5 @@
+{/* eslint-disable react/no-unescaped-entities */}
+
 import Link from "next/link";
 import { motion } from "framer-motion";
 
@@ -28,7 +30,8 @@ function About() {
         className="mt-4 dark:text-ctnSecondaryDark text-gray-300 text-[17px] w-full leading-[30px] flex flex-col justify-between gap-6"
       >
         <div>
-          Hello! I am Krishna Panjre, a passionate Full Stack Developer with
+         <p>
+         Hello! I am Krishna Panjre, a passionate Full Stack Developer with
           expertise in the MERN stack and Python Development. I specialize in
           building scalable and high-performance web applications using modern
           technologies. My skill set includes: Full Stack Development (MERN
@@ -40,7 +43,8 @@ function About() {
           keen interest in Motion Graphics and Data Analysis, allowing me to
           blend creativity with data-driven insights. I am always eager to
           explore new technologies, solve complex problems, and contribute to
-          innovative projects. Let’s build something amazing together!
+          innovative projects. Lets build something amazing together!
+         </p>
           <br className="sm:block hidden" />
           Let&apos;s collaborate to bring your ideas to life!
         </div>
