@@ -61,7 +61,7 @@ function Navbar() {
                         rounded-full relative cursor-pointer"
 						>
 							<Image
-								src="/assets/v.png"
+								src={logos}
 								alt="avatar"
 								fill={true}
 								sizes=""
