@@ -17,7 +17,7 @@
 ## Demo
 
 
-You can see a live demo of the portfolio website at [https://krishnas_portfolio](https://krishna-portfolio).
+You can see a live demo of the portfolio website at [https://krishnas-portfolio-ev7w.vercel.app/](https://krishnas-portfolio-ev7w.vercel.app/.)
 
 ## Features
 
@@ -48,7 +48,7 @@ You can see a live demo of the portfolio website at [https://krishnas_portfolio]
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Shivam-Sharma-1/3D-Portfolio
+git clone https://github.com/Krishnas_Portfolio
 ```
 
 2. Change to the project directory:
