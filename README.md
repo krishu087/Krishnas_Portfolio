@@ -1,14 +1,6 @@
 # Portfolio
 
-
-<<<<<<< HEAD
 ![Portfolio Screenshot](/public/assets/readme_assets/full.png)
-=======
-
-![Portfolio Screenshot](/public/assets/readme_assets/full.png)
-
->>>>>>> 4bf4b82 (About)
-
 
  Portfolio is my personal portfolio website created using Next.js, Tailwind CSS, Three.js, React Three Fiber, and a collection of other technologies. This website showcases my skills, experiences, projects, and allows users to contact me. It also offers a dark and light theme to enhance the user experience.
 
@@ -24,13 +16,8 @@
 
 ## Demo
 
-<<<<<<< HEAD
 
 You can see a live demo of the portfolio website at [https://krishnas_portfolio](https://krishna-portfolio).
-
-=======
-You can see a live demo of the portfolio website at [https://krishnas_portfolio](https://krishna-portfolio).
->>>>>>> 4bf4b82 (About)
 
 ## Features
 
@@ -96,10 +83,5 @@ The project structure is organized as follows:
 
 ## Author
 
-<<<<<<< HEAD
 -   [@Krishna Panjre](https://github.com/krishu087/)
 
-=======
-
--   [@Krishna Panjre](https://github.com/krishu087/)
->>>>>>> 4bf4b82 (About)
