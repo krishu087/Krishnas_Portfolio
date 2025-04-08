@@ -62,7 +62,7 @@ function Navbar() {
 						>
 							<Image
 								src={logos}
-								alt="avatar"
+								alt="logos"
 								fill={true}
 								sizes=""
 								className="w-10 h-10 rounded-full object-cover"
