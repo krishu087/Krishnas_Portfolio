@@ -9,7 +9,7 @@ import Menu from "./../public/assets/icons/menu.svg";
 import Close from "./../public/assets/icons/close.svg";
 import { slideIn } from "@/utils/motion";
 import avatar from "./../public/assets/kprofile.png";
-import logos from "./../public/assets/v.png";
+import logos from "./../public/assets/V.png";
 
 function Navbar() {
 	const [active, setActive] = useState("");
