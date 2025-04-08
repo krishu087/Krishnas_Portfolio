@@ -17,7 +17,7 @@
 ## Demo
 
 
-You can see a live demo of the portfolio website at [https://krishnas-portfolio-ev7w.vercel.app/](https://krishnas-portfolio-ev7w.vercel.app/.)
+You can see a live demo of the portfolio website at [https://krishnas-portfolio-red.vercel.app/](https://krishnas-portfolio-red.vercel.app/)
 
 ## Features
 
